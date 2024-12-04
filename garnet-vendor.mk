@@ -1089,10 +1089,7 @@ PRODUCT_PACKAGES += \
     lib-rtpcore \
     lib-rtpsl \
     libAF \
-    libAlacSwDec \
-    libApeSwDec \
     libFileMux_proprietary \
-    libFlacSwDec \
     libGPQTEEC_vendor \
     libGPTEE_vendor \
     libGPreqcancel \
