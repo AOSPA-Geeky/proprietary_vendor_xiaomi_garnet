@@ -1062,7 +1062,6 @@ PRODUCT_PACKAGES += \
     camera.xiaomi \
     com.dsi.ant@1.0-impl \
     com.qti.chi.override \
-    consumerir.qcom \
     gyro_fusion_interface \
     sound_trigger.primary.parrot \
     vendor.qti.esepowermanager@1.1-impl \
